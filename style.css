@@ -1,0 +1,44 @@
+body {
+  background: linear-gradient(45deg, #7b38e6, #d05e5e, #de9d43);
+  height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 200px;
+}
+.input-box {
+  width: 260px;
+  height: 30px;
+  border-radius: 10px;
+}
+.container-box-inlane {
+}
+.box-big-dic {
+  width: 260px;
+  height: 30px;
+  border-radius: 10px;
+}
+.textarea-footer {
+  margin-top: 15px;
+}
+.box-name {
+  margin-top: 15px;
+}
+.box-textarea {
+  width: 260px;
+  height: 30px;
+  border-radius: 10px;
+}
+.button {
+  margin-top: 15px;
+}
+button {
+  width: 260px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #308a21;
+  border: none;
+}
